@@ -7,7 +7,7 @@ Learn to split templates into smaller, reusable nested stacks.
 
 ## Prerequisites
 
-Completion of Lab 4
+Completion of [Lab 4](../Lab4_Mappings_And_Conditions/README.md)
 
 ## Steps
 

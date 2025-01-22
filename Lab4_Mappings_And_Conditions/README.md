@@ -7,7 +7,7 @@ Understand mappings and conditions to handle environment-specific configurations
 
 ## Prerequisites
 
-Completion of [Lab 3](../Lab3/README.md)
+Completion of [Lab 3](../Lab3_Parameters_and_Outputs/README.md)
 
 ## Steps
 
